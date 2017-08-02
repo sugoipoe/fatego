@@ -1,0 +1,6 @@
+Tables needed:
+- servant triangle + base attr
+- servant attributes (man, sky, earth, star, beats)
+- card default values (
+- servant DB; rows are servants, columns are attributes i.e. lv 100 atk, etc.
+- skills DB?
