@@ -1,0 +1,4 @@
+# This file will be used to keep notes; i.e. for Flask features to be used later
+- Create a database and include the credentials in instance/
+- Use environment variables to set up a prod server (check flask docs http://exploreflask.com/en/latest/configuration.html)
+

@@ -1,0 +1,5 @@
+Team planner and Battle optimizer can be separate
+- Battle optimizer will take a given team (build in team planner?) and will determine the best card set-ups for specific goals; damage, building np gauge, crit, etc
+- Battle optimizer will include the battles, and will suggest teams based off the team planner
+- Team planner stored w.o accounts? Add e-mail when?
+- Start working on exp growth curve formulas
